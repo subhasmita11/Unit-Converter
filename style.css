@@ -1,0 +1,48 @@
+*{
+    background-color: rgb(233, 157, 45);
+}
+input:hover{
+    color: rgb(12, 12, 37);
+}
+#ht{
+    margin:5px;
+    text-align: center;
+    color: rgb(153, 193, 8);
+}
+#ht:hover{
+    color: black;
+}
+
+#btt
+{
+    display: flex;
+    padding: 10px;
+    margin: 20px;
+    justify-content: center;
+
+}
+
+#ctt
+{
+    display: flex;
+    padding: 10px;
+    margin: 20px;
+    justify-content: center;
+}
+#dtt
+{
+    display: flex;
+    padding: 10px;
+    margin: 20px;
+    justify-content: center;
+}
+#ett{
+    display: flex;
+    padding: 10px;
+    margin: 20px;
+    justify-content: center;
+}
+.text{
+    background-color: rgb(197, 148, 164);
+    font-size: 40px;
+}
